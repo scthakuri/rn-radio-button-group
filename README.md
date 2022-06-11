@@ -68,6 +68,13 @@ yarn add rn-radio-button-group
 ```
 ### Props
 
+#### RadioGroup
+Key | Type | Required | Default | Valid Values
+--- | --- | --- | --- | ---
+selectedValue | string | yes | | string
+onValueChange | function | yes | | any function
+children | React.ReactNode | no | | React.ReactNode
+
 #### RadioButton
 Key | Type | Required | Default | Valid Values
 --- | --- | --- | --- | --- 
@@ -82,17 +89,10 @@ style | object | no |  | any StyleSheet Object
 checked | boolean | no | false | true | false
 children | React.ReactNode | no | | React.ReactNode
 
-#### RadioGroup
-Key | Type | Required | Default | Valid Values
---- | --- | --- | --- | ---
-selectedValue | string | yes | | string
-onValueChange | function | yes | | any function
-children | React.ReactNode | no | | React.ReactNode
-
 ## Contributions
 
 Fork and create a pull request
 
 ## License
 
-[MIT License](https://github.com/ThakurBallary/rn-radio-button-group/blob/master/LICENSE)
+[MIT License](https://github.com/sureshchand12a/rn-radio-button-group/blob/master/LICENSE)

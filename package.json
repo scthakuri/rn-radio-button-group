@@ -1,6 +1,6 @@
 {
     "name": "rn-radio-button-group",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Simple Radio Button Component for React Native - iOS and Android",
     "main": "index.tsx",
     "scripts": {

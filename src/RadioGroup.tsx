@@ -4,6 +4,7 @@ import React, { useEffect, useState } from 'react'
 interface RadioGroupProps {
     selectedValue: string;
     onValueChange(value: string): void;
+    color?: string;
     children: React.ReactNode
 }
 
