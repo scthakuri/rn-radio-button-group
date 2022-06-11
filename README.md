@@ -10,7 +10,7 @@ Simple Radio Button Component for React Native - iOS and Android
 
 ###### Let's see demo
 
-![DEMO](./docs/rn-radio-button-group.gif)
+![DEMO](https://hamrocsit.com/wp-content/uploads/2022/06/rn-radio-button-group.gif)
 
 ### Installation
 
