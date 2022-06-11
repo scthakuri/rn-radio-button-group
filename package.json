@@ -1,25 +1,42 @@
 {
-  "name": "rn-radio-button-group",
-  "version": "1.0.0",
-  "description": "Simple Radio Button Component for React Native - iOS and Android",
-  "main": "index.tsx",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "radio",
-    "radio",
-    "button",
-    "react",
-    "native",
-    "rn"
-  ],
-  "author": "Suresh Chand <sureshchand12a@gmail.com>",
-  "license": "ISC",
-  "peerDependencies": {
-    "react" : "17.0.2",
-    "react-native" : "0.68.2",
-    "@types/react": "^18.0.12",
-    "@types/react-dom": "^18.0.5"
-  }
+    "name": "rn-radio-button-group",
+    "version": "1.0.1",
+    "description": "Simple Radio Button Component for React Native - iOS and Android",
+    "main": "index.tsx",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sureshchand12a/rn-radio-button-group.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sureshchand12a/rn-radio-button-group/issues"
+    },
+    "homepage": "https://github.com/sureshchand12a/rn-radio-button-group#readme",
+    "keywords": [
+        "react native-radio-buttons",
+        "react-native-simple-radio-buttons",
+        "react-native",
+        "radio-buttons",
+        "radio-buttons-group",
+        "react-native-radio-group",
+        "react-native-component",
+        "ios",
+        "android",
+        "form",
+        "radio",
+        "button",
+        "rn-radio-button-group",
+        "rn-radio",
+        "rn-radio-button"
+    ],
+    "author": "Suresh Chand <sureshchand12a@gmail.com>",
+    "license": "MIT",
+    "peerDependencies": {
+        "react": "17.0.2",
+        "react-native": "0.68.2",
+        "@types/react": "^18.0.12",
+        "@types/react-dom": "^18.0.5"
+    }
 }
